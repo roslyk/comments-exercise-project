@@ -1,6 +1,6 @@
 ## Post Commenting in Laravel
 
-This is a small Laravel Project that focuses on post commenting. The idea is that you create a user, logs in and then you may comment on posts.
+This is a small Laravel Project that focuses on post commenting. The idea is that you create a user, log in and then you may comment on posts.
 
 Check out this project!
 
