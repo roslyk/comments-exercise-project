@@ -5,4 +5,4 @@ This is a small Laravel Project that focuses on post commenting. The idea is tha
 Check out this project!
 
 Assuming that you are using XAMPP:
-- To check out this project download project, set up a database named "comments_exercise_project" and go to project's terminal and run the command "php artisan migrate:fresh --seed". The previous command will set up and seed database tables. You are now ready to check out the project!
+- To check out this project download project, set up a database named "comments-exercise-project" and go to project's terminal and run the command "php artisan migrate:fresh --seed". The previous command will set up and seed database tables. You are now ready to check out the project!
